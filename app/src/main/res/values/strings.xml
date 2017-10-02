@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GEOADS</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="iniciar">Iniciar sesión</string>
+    <string name="registrese">Registrese</string>
+    <string name="repcontrasena">Repetir contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="perfil">Mi perfil</string>
+    <string name="mCerrar">Cerrar sesión</string>
+    <string name="principal">Home</string>
+    <string name="mprincipal">Home</string>
+</resources>
