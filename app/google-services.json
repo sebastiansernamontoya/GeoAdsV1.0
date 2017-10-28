@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "728262027018",
+    "firebase_url": "https://geoads2-2f605.firebaseio.com",
+    "project_id": "geoads2-2f605",
+    "storage_bucket": "geoads2-2f605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728262027018:android:2f8bb7f5c469631a",
+        "android_client_info": {
+          "package_name": "com.example.admin.geoads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728262027018-mmsl1anj749rs0vgm7c1gg6i8jf0mak7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.geoads",
+            "certificate_hash": "87fffc221f1f37c084850c12509636fb83bfe739"
+          }
+        },
+        {
+          "client_id": "728262027018-afdbd32dmsn71ienhkkha25ik1h6b9d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHYz7cpkYv5gaAptCAUgxv0SKY5QEw1Mg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728262027018-afdbd32dmsn71ienhkkha25ik1h6b9d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

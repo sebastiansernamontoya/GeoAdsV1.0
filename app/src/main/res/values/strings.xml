@@ -10,4 +10,22 @@
     <string name="mCerrar">Cerrar sesión</string>
     <string name="principal">Home</string>
     <string name="mprincipal">Home</string>
+    <string name="facebook_app_id">511800725840610</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="home_item">Home</string>
+    <string name="productos_item">Productos</string>
+    <string name="compras_item">Carrito</string>
+    <string name="ordenes_item">Ordenes</string>
+    <string name="facturas_item">Facturas</string>
+    <string name="log_out_item">Cerrar Sesión</string>
+    <string name="configuracion_item">Configuración</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_perfil">PerfilActivity</string>-
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment1</string>
+    <string name="title_activity_nav">NavActivity</string>
 </resources>
